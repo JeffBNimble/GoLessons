@@ -1,4 +1,4 @@
-<h1 style="verticalAlign=middle">Learning <img src="./Go-Logo_Blue.png" height="100" width="100" alt="Golang logo"/> at <img src="https://avatars2.githubusercontent.com/u/5975001?s=75&v=4" alt="Egghead.io logo"/></h1>
+<h1>Learning <img src="./Go-Logo_Blue.png" style="verticalAlign=middle" height="75" width="75" alt="Golang logo"/> at <img src="https://avatars2.githubusercontent.com/u/5975001?s=50&v=4" style="verticalAlign:middle" alt="Egghead.io logo"/></h1>
 
 ## Overview
 This repository contains the backing source code for my [Golang](https://golang.org) lessons. Each of these lessons are published on [Egghead.io](https://egghead.io).
